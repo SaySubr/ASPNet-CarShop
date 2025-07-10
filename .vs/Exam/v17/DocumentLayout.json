@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\cartitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\views\\profile\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\error\\russianidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\error\\russianidentityerrordescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\saburov hw\\web asp.net\\exc\\exam\\exam\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C346D84D-18BD-43AF-BCCC-C7218EAE9A5C}|Exam\\Exam.csproj|solutionrelative:exam\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:35:24.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Order\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Order\\Cart.cshtml",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T20:34:09.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:33:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Order.cs",
+              "RelativeToolTip": "Exam\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:32:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Category.cs",
+              "RelativeToolTip": "Exam\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:31:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\CartItemViewModel.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\CartItemViewModel.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\CartItemViewModel.cs",
+              "RelativeToolTip": "Exam\\Models\\CartItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:31:17.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\CartItem.cs",
+              "RelativeToolTip": "Exam\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:31:15.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RussianIdentityErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Error\\RussianIdentityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "Exam\\Error\\RussianIdentityErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Error\\RussianIdentityErrorDescriber.cs",
+              "RelativeToolTip": "Exam\\Error\\RussianIdentityErrorDescriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:28:57.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:27:10.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Exam\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:27:05.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Exam\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Services\\OrderService.cs",
+              "RelativeToolTip": "Exam\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:26:57.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Exam\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Services\\CartService.cs",
+              "RelativeToolTip": "Exam\\Services\\CartService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:26:50.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Profile\\Orders.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Profile\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Profile\\Orders.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Profile\\Orders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T19:41:10.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\appsettings.json",
+              "RelativeToolTip": "Exam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T20:01:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "Exam\\Models\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Models\\RoleInitializer.cs",
+              "RelativeToolTip": "Exam\\Models\\RoleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:57:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Exam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Exam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T20:48:34.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:41:02.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exam\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exam\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T20:01:11.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:55:19.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Exam\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Exam\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T19:55:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T17:36:35.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Vehicle\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Vehicle\\Index.cshtml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\Saburov HW\\Web ASp.Net\\Exc\\Exam\\Exam\\Views\\Vehicle\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Vehicle\\Index.cshtml",
+              "ViewState": "AgIAAAEAAACAMzMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T16:21:34.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
