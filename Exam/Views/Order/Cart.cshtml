@@ -1,0 +1,174 @@
+﻿@model List<Exam.Models.CartItemViewModel>
+
+<h2 class="text-center my-4">Корзина</h2>
+
+<!-- логика Успешная покупка-->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+<!--Логика добавление карточек в корзину-->
+@if (!Model.Any())
+{
+    <div class="text-center">
+        <p>Ваша корзина пуста.</p>
+        <a class="btn btn-primary mt-3" href="@Url.Action("Index", "Vehicle")">Вернуться к покупкам</a>
+    </div>
+}
+else
+{
+    <table class="table align-middle">
+        <thead>
+            <tr>
+                <th>Фото</th>
+                <th>Модель</th>
+                <th>Цена</th>
+                <th>Кол-во</th>
+                <th>Сумма</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="@item.Vehicle.ImageUrl" class="img-thumbnail" style="width: 100px;" alt="Фото" />
+                    </td>
+                    <td>@item.Vehicle.Brand @item.Vehicle.Model</td>
+                    <td>@item.Vehicle.Price ₽</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Quantity* item.Vehicle.Price) ₽</td>
+                    <td>
+                        <form asp-action="RemoveItem" asp-controller="Order" method="post">
+                            <input type="hidden" name="id" value="@item.Vehicle.Id" />
+                            <button type="submit" class="btn btn-danger btn-sm">Удалить</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p><strong>Общая сумма:</strong> @Model.Sum(i => i.Quantity * i.Vehicle.Price) ₽</p>
+
+    <hr />
+
+    <!--Логика оформление заказа-->
+    <h4>Оформление заказа</h4>
+    <form asp-controller="Order" asp-action="ConfirmCart" method="post" class="row g-3">
+        <div class="col-md-6">
+            <label for="email" class="form-label">Email</label>
+            <input required type="email" class="form-control" name="email" id="email" placeholder="**mail.ru" />
+        </div>
+        <div class="col-md-6">
+            <label for="phone" class="form-label">Телефон</label>
+            <input required type="tel" class="form-control" name="phone" id="phone" maxlength="12" placeholder="+7 (999) 999-99-99" />
+        </div>
+        <div class="col-md-6">
+            <label for="cardNumber" class="form-label">Номер карты</label>
+            <input required type="text" class="form-control" name="cardNumber" id="cardNumber" maxlength="16" placeholder="0000 0000 0000 0000" />
+        </div>
+        <div class="col-md-3">
+            <label for="expiryDate" class="form-label">Срок действия (MM/YY)</label>
+            <input required type="text" class="form-control" name="expiryDate" id="expiryDate" maxlength="5" placeholder="MM/YY" />
+        </div>
+        <div class="col-md-3">
+            <label for="cvv" class="form-label">CVV</label>
+            <input required type="text" class="form-control" name="cvv" id="cvv" maxlength="3" placeholder="***" />
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Подтвердить заказ</button>
+            <a class="btn btn-secondary ms-2" href="@Url.Action("Index", "Vehicle")">Вернуться к покупкам</a>
+        </div>
+    </form>
+}
+
+<!--Скрипт не работает:(-->
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.8/inputmask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.8/bindings/inputmask.binding.min.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            // Маска для телефона: +7 (999) 999-99-99
+            Inputmask("+7 (999) 999-99-99", {
+                clearIncomplete: true,
+                showMaskOnHover: false
+            }).mask(document.getElementById('phone'));
+
+            // Маска для номера карты: 16 цифр с пробелами
+            Inputmask("9999 9999 9999 9999").mask(document.getElementById('cardNumber'));
+
+            // Маска для срока действия: MM/YY
+            Inputmask("99/99", {
+                placeholder: "MM/YY",
+                clearIncomplete: true,
+                oncomplete: function () {
+                    const val = this.value;
+                    const month = parseInt(val.substring(0, 2), 10);
+                    if (month < 1 || month > 12) {
+                        alert("Введите корректный месяц (01–12)");
+                        this.setValue("");
+                    }
+                }
+            }).mask(document.getElementById('expiryDate'));
+
+            // Маска для CVV: 3 цифры
+            Inputmask("999", {
+                placeholder: "***",
+                showMaskOnHover: false
+            }).mask(document.getElementById('cvv'));
+
+            // Установка кастомных сообщений об ошибках
+            function setCustomValidation(input, message) {
+                input.addEventListener('invalid', function () {
+                    if (!input.validity.valid) {
+                        input.setCustomValidity(message);
+                    }
+                });
+                input.addEventListener('input', function () {
+                    input.setCustomValidity('');
+                });
+            }
+
+            setCustomValidation(document.getElementById('phone'), "Введите номер телефона в формате +7 (999) 999-99-99");
+            setCustomValidation(document.getElementById('cvv'), "Введите корректный CVV (3 цифры)");
+            setCustomValidation(document.getElementById('expiryDate'), "Введите срок действия в формате MM/YY");
+        });
+
+        // Дополнительная JS-проверка перед отправкой формы
+        document.querySelector("orderForm").addEventListener("submit", function (e) {
+            const phone = document.getElementById("phone").value.replace(/\D/g, '');
+            const cvv = document.getElementById("cvv").value;
+            const expiry = document.getElementById("expiryDate").value;
+
+            const phonePattern = /^7\d{10}$/;
+            const cvvPattern = /^\d{3}$/;
+            const expiryPattern = /^(0[1-9]|1[0-2])\/\d{2}$/;
+
+            let errors = [];
+
+            if (!phonePattern.test(phone)) {
+                errors.push("Введите корректный номер телефона (например, +7 (999) 123-45-67)");
+            }
+
+            if (!cvvPattern.test(cvv)) {
+                errors.push("Введите корректный CVV (3 цифры)");
+            }
+
+            if (!expiryPattern.test(expiry)) {
+                errors.push("Введите срок действия карты в формате MM/YY, например 12/25");
+            }
+
+            if (errors.length > 0) {
+                alert(errors.join("\n"));
+                e.preventDefault();
+            }
+        });
+    </script>
+}

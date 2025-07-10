@@ -1,0 +1,312 @@
+﻿@model IEnumerable<Exam.Models.Vehicle>
+@using Exam.Models
+
+@{
+    ViewData["Title"] = "Каталог автомобилей";
+    var categories = ViewBag.Categories as List<Category> ?? new List<Category>();
+    int? selectedCategoryId = ViewBag.SelectedCategoryId != null ? (int)ViewBag.SelectedCategoryId : (int?)null;
+}
+
+<h2 class="text-center my-4">Каталог автомобилей</h2>
+
+<!-- Форма фильтрации по категории -->
+
+<form method="get" asp-controller="Vehicle" asp-action="Index" class="mb-4 text-center">
+    <select name="categoryId" class="form-select w-25 d-inline">
+        <option value="">Все категории</option>
+        @foreach (var cat in categories)
+        {
+            <option value="@cat.Id" selected="@(selectedCategoryId == cat.Id)">
+                @cat.Name
+            </option>
+        }
+    </select>
+
+    <button type="submit" class="btn btn-primary ms-2">Отфильтровать</button>
+
+    @if (ViewBag.ShowSold != null && (bool)ViewBag.ShowSold)
+    {
+        <a asp-controller="Vehicle" asp-action="Index" asp-route-showSold="false" class="btn btn-outline-primary ms-2">
+            Вернуться к доступным
+        </a>
+    }
+    else
+    {
+        <a asp-controller="Vehicle" asp-action="Index" asp-route-showSold="true" class="btn btn-outline-secondary ms-2">
+            Показать проданные
+        </a>
+    }
+</form>
+
+<!-- Модальное окно оформления заказа -->
+<div class="modal fade" id="orderModal" tabindex="-1" aria-labelledby="orderModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+            <form method="post" asp-controller="Order" asp-action="Confirm">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="orderModalLabel">Оформление заказа</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                </div>
+                <div class="modal-body row">
+                    <div class="col-md-5">
+                        <img id="orderImage" src="" class="img-fluid rounded-start" alt="Изображение авто" />
+                    </div>
+                    <div class="col-md-7">
+                        <h4 id="orderTitle"></h4>
+                        <p>
+                            <strong>Год:</strong> <span id="orderYear"></span><br />
+                            <strong>Пробег:</strong> <span id="orderMileage"></span> км<br />
+                            <strong>Цена:</strong> <span id="orderPrice"></span> ₽<br />
+                            <strong>Категория:</strong> <span id="orderCategory"></span>
+                        </p>
+
+                        <!-- Дополнительные поля -->
+                        <div class="mb-2">
+                            <label for="email" class="form-label">Email</label>
+                            <input required type="email" class="form-control" name="email" id="email" value="@ViewBag.UserEmail" />
+                        </div>
+                        <div class="mb-2">
+                            <label for="phone" class="form-label">Телефон</label>
+                            <input required type="tel" class="form-control" name="phone" id="phone" maxlength="12"
+                                   pattern="^\+7\d{10}$"
+                                   placeholder="+7 (999) 999-99-99" />
+
+                        </div>
+                        <div class="mb-2">
+                            <label for="cardNumber" class="form-label">Номер карты</label>
+                            <input required type="text" class="form-control" name="cardNumber" id="cardNumber" minlength="16" maxlength="16" placeholder="0000 0000 0000 0000" />
+                        </div>
+                        <div class="mb-2 row">
+                            <div class="col">
+                                <label for="expiryDate" class="form-label">Срок действия (ММ/ГГ)</label>
+                                <input required type="text" class="form-control" name="expiryDate" id="expiryDate" minlength="5" maxlength="5" placeholder="MM/YY"
+                                       pattern="^(0[1-9]|1[0-2])\/\d{2}$" />
+
+                            </div>
+                            <div class="col">
+                                <label for="cvv" class="form-label">CVV</label>
+                                <input required type="text" class="form-control" name="cvv" id="cvv"
+                                       pattern="\d{3}"
+                                       maxlength="3"
+                                       placeholder="***" />
+                            </div>
+                        </div>
+
+                        <input type="hidden" id="orderVehicleId" name="vehicleId" />
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Отмена</button>
+                    <button type="submit" class="btn btn-success">Подтвердить заказ</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["SuccessMessage"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+
+<!-- Карточки автомобилей -->
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card h-100 shadow-sm">
+                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Model" style="height: 200px; object-fit: cover;" />
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            @item.Brand @item.Model
+                            @if (item.IsSold)
+                            {
+                                <span class="badge bg-danger ms-2">Продано</span>
+                            }
+                        </h5>
+                        <p class="card-text">
+                            <strong>Год:</strong> @item.Years<br />
+                            <strong>Пробег:</strong> @string.Format("{0:N0}", item.Mileage) км<br />
+                            <strong>Цена:</strong> @string.Format("{0:N0}", item.Price) ₽<br />
+                            <strong>Категория:</strong> @(item.Category?.Name ?? "Не указано")
+                        </p>
+                    </div>
+                    <div class="card-footer text-center">
+                        @if (item.IsSold)
+                        {
+                            <span class="badge bg-danger px-3 py-2 fs-6">Автомобиль продан</span>
+                        }
+                        else if (((List<int>)ViewBag.CartProductIds).Contains(item.Id))
+                        {
+                            <button class="btn btn-secondary" disabled>В корзине</button>
+                            <button type="button" class="btn btn-outline-success ms-2"
+                                    onclick="openOrderModal(
+                                        @item.Id,
+                                        '@item.Brand @item.Model',
+                                        '@item.ImageUrl',
+                                        '@item.Years',
+                                        '@item.Mileage',
+                                        '@item.Price',
+                                        '@(item.Category?.Name ?? "Не указано")')">
+                                Оформить заказ
+                            </button>
+                        }
+                        else
+                        {
+                            <form asp-controller="Cart" asp-action="AddToCart" method="post" class="d-inline">
+                                <input type="hidden" name="productId" value="@item.Id" />
+                                <input type="hidden" name="productName" value="@($"{item.Brand} {item.Model}")" />
+                                <input type="hidden" name="price" value="@item.Price" />
+                                <input type="hidden" name="quantity" value="1" />
+                                <button type="submit" class="btn btn-outline-primary">Добавить в корзину</button>
+                                <button type="button" class="btn btn-outline-success ms-2"
+                                        onclick="openOrderModal(
+                                @item.Id,
+                                '@item.Brand @item.Model',
+                                '@item.ImageUrl',
+                                '@item.Years',
+                                '@item.Mileage',
+                                '@item.Price',
+                                '@(item.Category?.Name ?? "Не указано")')">
+                                    Оформить заказ
+                                </button>
+                            </form>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.8/inputmask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/inputmask/5.0.8/bindings/inputmask.binding.min.js"></script>
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        // Функция открытия модального окна с информацией о выбранном автомобиле
+        function openOrderModal(id, title, imageUrl, year, mileage, price, category) {
+            document.getElementById('orderVehicleId').value = id;        // ID автомобиля (скрытое поле)
+            document.getElementById('orderTitle').textContent = title;   // Название модели
+            document.getElementById('orderImage').src = imageUrl;        // Картинка автомобиля
+            document.getElementById('orderImage').alt = title;           // alt для картинки
+            document.getElementById('orderYear').textContent = year;     // Год выпуска
+            document.getElementById('orderMileage').textContent = Number(mileage).toLocaleString('ru-RU'); //Километры
+            document.getElementById('orderPrice').textContent = Number(price).toLocaleString('ru-RU');  // Цена
+            document.getElementById('orderCategory').textContent = category; // Категория
+
+            // Показываем Bootstrap-модалку с данными
+            var modal = new bootstrap.Modal(document.getElementById('orderModal'));
+            modal.show();
+        }
+
+        window.addEventListener('DOMContentLoaded', () => {
+            // Плавное исчезновение success-alert через 5 секунд с анимацией
+            const alert = document.querySelector('.alert-success');
+            if (alert) {
+                setTimeout(() => {
+                    alert.style.transition = 'opacity 1s ease';
+                    alert.style.opacity = '0';
+                    setTimeout(() => {
+                        alert.remove();  // Удаляем alert из DOM после анимации
+                    }, 1000);
+                }, 5000);
+            }
+
+            // Инициализация масок Inputmask для полей формы
+
+            // Маска для номера карты: 16 цифр с пробелами
+            Inputmask("9999 9999 9999 9999").mask(document.getElementById('cardNumber'));
+
+            // Маска для срока действия карты: формат MM/YY с проверкой месяца
+            Inputmask("99/99", {
+                placeholder: "MM/YY",     // Подсказка в поле
+                clearIncomplete: true,    // Очищать при неполном вводе
+                oncomplete: function () {
+                    const val = this.value;
+                    const month = parseInt(val.substring(0, 2), 10);
+                    // Проверка корректности месяца от 01 до 12
+                    if (month < 1 || month > 12) {
+                        alert("Введите корректный месяц (01-12)");
+                        this.setValue(""); // Очистить поле при ошибке
+                    }
+                }
+            }).mask(document.getElementById('expiryDate'));
+
+            // Маска для CVV: ровно 3 цифры, отображаются как ***
+            Inputmask("999", {
+                placeholder: "***",
+                showMaskOnHover: false
+            }).mask(document.getElementById('cvv'));
+
+            // Маска для телефона: формат +7 (999) 999-99-99
+            Inputmask("+7 (999) 999-99-99", {
+                clearIncomplete: true,
+                showMaskOnHover: false
+            }).mask(document.getElementById('phone'));
+
+            // Функция для установки кастомных сообщений валидации HTML5
+            function setCustomValidation(input, message) {
+                input.addEventListener('invalid', function () {
+                    if (!input.validity.valid) {
+                        input.setCustomValidity(message);
+                    } else {
+                        input.setCustomValidity('');
+                    }
+                });
+                // Сброс сообщения об ошибке при вводе новых данных
+                input.addEventListener('input', function () {
+                    input.setCustomValidity('');
+                });
+            }
+
+            // Устанавливаем кастомные сообщения для основных полей
+            setCustomValidation(document.getElementById('phone'), "Введите корректный номер телефона в формате +79135874585");
+            setCustomValidation(document.getElementById('cvv'), "Введите корректный CVV (3 цифры)");
+            setCustomValidation(document.getElementById('expiryDate'), "Введите корректный срок действия карты в формате MM/YY, например 12/25");
+        });
+
+        // Обработчик отправки формы с дополнительной валидацией
+        document.querySelector("#orderModal form").addEventListener("submit", function (e) {
+            // Получаем значения из полей, очищая телефон от символов кроме цифр
+            const phone = document.getElementById("phone").value.replace(/\D/g, '');
+            const cvv = document.getElementById("cvv").value;
+            const expiry = document.getElementById("expiryDate").value;
+
+            // Регулярные выражения для проверки формата
+            const phonePattern = /^7\d{10}$/;  // 11 цифр начиная с 7 без +
+            const cvvPattern = /^\d{3}$/;       // ровно 3 цифры CVV
+            const expiryPattern = /^(0[1-9]|1[0-2])\/\d{2}$/;  // MM/YY с месяцем 01-12
+
+            let errorMessages = [];
+
+            // Проверяем каждое поле и собираем ошибки
+            if (!phonePattern.test(phone)) {
+                errorMessages.push("Введите корректный номер телефона в формате +79135874585");
+            }
+
+            if (!cvvPattern.test(cvv)) {
+                errorMessages.push("Введите корректный CVV (3 цифры)");
+            }
+
+            if (!expiryPattern.test(expiry)) {
+                errorMessages.push("Введите корректный срок действия карты в формате MM/YY, например 12/25");
+            }
+
+            // Если есть ошибки — показываем alert и отменяем отправку формы
+            if (errorMessages.length > 0) {
+                alert(errorMessages.join("\n"));
+                e.preventDefault();
+            }
+        });
+
+
+    </script>
+}
+
+

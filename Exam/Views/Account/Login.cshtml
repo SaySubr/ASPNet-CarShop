@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Вход";
+}
+
+<h2>Вход</h2>
+
+<form asp-action="Login" method="post">
+    <input name="email" placeholder="Email" class="form-control" />
+    <input name="password" type="password" placeholder="Пароль" class="form-control" />
+    <button type="submit" class="btn btn-primary">Войти</button>
+</form>
+
+<p>Нет аккаунта? <a asp-controller="Account" asp-action="Register">Зарегистрируйтесь</a></p>
+
+@if (ViewData["Message"] != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @Html.Raw(ViewData["Message"])
+    </div>
+}
+

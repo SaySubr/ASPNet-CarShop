@@ -1,0 +1,27 @@
+﻿    @{
+        ViewData["Title"] = "Home Page";
+        var isAuthenticated = User.Identity.IsAuthenticated;
+    }
+
+    <h1>Добро пожаловать на главную страницу</h1>
+
+    <button id="btnVehicle" class="btn btn-primary">Войти на страницу Vehicle</button>
+
+    <!-- Блок для вывода сообщения -->
+    <div id="messageBlock" class="alert alert-danger mt-3" style="display:none;"></div>
+
+    <script>
+        const isAuthenticated = @isAuthenticated.ToString().ToLower();
+
+        document.getElementById('btnVehicle').addEventListener('click', function () {
+            const messageBlock = document.getElementById('messageBlock');
+            if (isAuthenticated) {
+                // Если залогинен — переходим на Vehicle/Index
+                window.location.href = '@Url.Action("Index", "Vehicle")';
+            } else {
+                // Показываем ошибку в блоке и делаем его видимым
+                messageBlock.innerText = 'Пожалуйста, войдите в аккаунт для доступа к этой странице.';
+                messageBlock.style.display = 'block';
+            }
+        });
+    </script>

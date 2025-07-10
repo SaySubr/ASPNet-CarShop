@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Exam.Models.Order>
+
+<h2>Мои заказы</h2>
+
+@if (!Model.Any())
+{
+    <div class="text-center">
+    <p>У вас пока нет заказов.</p>
+    <a class="btn btn-primary mt-3" href="@Url.Action("Index", "Vehicle")">Вернуться к покупкам</a>
+    </div>
+}
+else
+{
+    <!--Заказы из базы данных-->
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Авто</th>
+                <th>Цена</th>
+                <th>Дата заказа</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.Vehicle.Brand @order.Vehicle.Model</td>
+                    <td>@order.Vehicle.Price ₽</td>
+                    <td>@order.OrderDate.ToString("dd.MM.yyyy HH:mm")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="Vehicle" asp-action="Index" class="btn btn-primary mb-3">← Вернуться к каталогам</a>
+}

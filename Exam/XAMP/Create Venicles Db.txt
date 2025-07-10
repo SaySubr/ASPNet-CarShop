@@ -1,0 +1,31 @@
+CREATE TABLE vehicles (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Picture VARCHAR(255),
+    Brand VARCHAR(100),
+    Model VARCHAR(100),
+    ReleaseYear VARCHAR(10),
+    Price VARCHAR(50)
+);
+
+
+razor_db
+
+vehicles
+
+----------
+CREATE TABLE Categories (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Vehicles (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    ImageUrl VARCHAR(255),
+    Brand VARCHAR(100),
+    Model VARCHAR(100),
+    Mileage INT,
+    Years INT,
+    Price INT,
+    CategoryId INT,
+    FOREIGN KEY (CategoryId) REFERENCES Categories(Id)
+);

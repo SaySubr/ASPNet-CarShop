@@ -1,0 +1,37 @@
+CREATE TABLE vehicles (
+    Id INT AUTO_INCREMENT PRIMARY KEY,
+    Login(255),
+    Password(100)
+);
+
+
+ExamDb
+
+User
+------ACCount
+
+CREATE DATABASE ExamDb;
+Add-Migration InitIdentity -Project Exam
+dotnet ef migrations add AddVehicleAndCategory --project Exam
+dotnet ef migrations add AddOrdersTable --project Exam
+Update-Database -Project Exam
+
+
+1970@mail.ru
+123456!Qwerty
+
+
+INSERT INTO vehicles (`Id`, ImageUrl, Brand, Model, Mileage, Years, Price, CategoryId, `IsSold`) VALUES
+(4, '/Image/D.jpg', 'Toyota', 'Camry', 50000, 2018, 1500000, 1, 0),
+(5, '/Image/E.jpg', 'Honda', 'CR-V', 45000, 2019, 1700000, 2, 0),
+(6, '/Image/C.jpg', 'Volkswagen', 'Golf', 30000, 2020, 1300000, 3, 0),
+(7, '/Image/F.jpg', 'BMW', '4 Series Coupe', 25000, 2019, 3200000, 4, 0),
+(8, '/Image/G.jpg', 'Tesla', 'Model 3', 10000, 2021, 3900000, 5, 0),
+(9, '/Image/H.jpg', 'Ford', 'F-150', 80000, 2017, 2100000, 6, 0),
+(10, '/Image/I.jpg', 'Hyundai', 'Elantra', 20000, 2021, 1600000, 1, 0),
+(11, '/Image/K.jpg', 'Chevrolet', 'Tahoe', 60000, 2016, 2500000, 2, 0),
+(12, '/Image/L.jpg', 'Kia', 'Ceed', 35000, 2019, 1200000, 3, 0),
+(13, '/Image/M.jpg', 'Audi', 'TT', 22000, 2020, 3400000, 4, 0),
+(14, '/Image/N.jpg', 'Nissan', 'Leaf', 15000, 2022, 2400000, 5, 0),
+(15, '/Image/R.jpg', 'Toyota', 'Tundra', 90000, 2015, 2300000, 6, 0),
+(16, '/Image/S.jpg', 'Sakura', 'Sayodi', 23000, 2011, 1594000, 5, 0);
