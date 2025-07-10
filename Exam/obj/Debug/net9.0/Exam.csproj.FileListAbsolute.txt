@@ -1,0 +1,1508 @@
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\appsettings.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.exe
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-b9sayid5wm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam.props
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets.pack.json
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
+C:\HTMLCSS\AspNet\Exc\Bad\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\appsettings.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.exe
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-b9sayid5wm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam.props
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets.pack.json
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.dll
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
+C:\HTMLCSS\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.exe
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+D:\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+D:\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-b9sayid5wm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+D:\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+D:\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+D:\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.dll
+D:\Exam\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+D:\Exam\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+D:\Exam\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.exe
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-b9sayid5wm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam.props
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.pack.json
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+C:\HTMLCSS\Examitacition\Exam\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\appsettings.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.exe
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.dll
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
+D:\Examinatiion\Exam\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-7bpmip5a34.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\appsettings.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.runtime.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.staticwebassets.endpoints.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.exe
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.deps.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Exam.pdb
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.RazorAssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\scopedcss\bundle\Exam.styles.css
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\scopedcss\projectbundle\Exam.bundle.scp.css
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ofa40bqe71-b9sayid5wm.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\j9swiz3yzq-90yqlj465b.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\vltxs1u3vm-xtxxf3hu2r.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\14ipv7q33s-bqjiyaj88i.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\rh65p086id-c2jlpeoesf.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\eb27mqwgz2-erw9l3u2r3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\9glsckmvxo-aexeepp0ev.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\hh8ihyobdx-d7shbmvgxk.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\bww8ud00yd-ausgxo2sd3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\edcrak57d7-k8d9w2qqmf.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\sf8kf2lula-cosvhxvwiu.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\3tzsqhslk9-ub07r2b239.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\oxk5o6czdw-fvhpjtyr6v.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\k8b25g0zwc-b7pk76d08c.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\8axix7wldr-fsbi9cje9m.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\d5z9sfpxbi-rzd6atqjts.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\u8428c4e9i-ee0r1s7dh0.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\tg53r17ghy-dxx9fxp4il.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\nlrl0f3xs3-jd9uben2k1.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\1fc4q00scq-khv3u5hwcm.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\8xykfy6qmd-r4e9w2rdcm.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\vsrbd71spn-lcd1t2u6c8.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\cynp17w084-c2oey78nd0.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\7o8oyvng68-tdbxkamptv.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\h9vwtoirpy-j5mq2jizvt.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\o5k23vqhrk-06098lyss8.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\iznc766avz-nvvlpmu67g.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ns4583i71s-s35ty4nyc5.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\47012z8l2l-pj5nd1wqec.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\4vzefxwp2m-46ein0sx1k.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\bh4v3mdph9-v0zj4ognzu.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\l186vlgaag-37tfw0ft22.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\rsc7qacj1u-hrwsygsryq.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\z408qb6q7a-pk9g2wxc8p.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\qfr28sqcy1-ft3s53vfgj.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\0k1i85ntyh-6cfz1n2cew.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\xa379ftczi-6pdc2jztkx.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\lr5hmrr0j7-493y06b0oq.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ivy2s9gwh5-iovd86k7lj.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\higufxz8op-vr1egmr9el.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\s3tglgz8hr-kbrnm935zg.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\vw9sls9bhj-jj8uyg4cgr.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ym8tkpcl2i-y7v9cxd14o.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\zzna4nrm5w-notf2xhcfb.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\igscs4x0yk-h1s4sie4z3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\zap00c0tb5-63fj8s7r0e.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\pogzkicjpz-0j3bgjxly4.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\j3hwsq15kh-47otxtyo56.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\q3naettu8c-4v8eqarkd7.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ldxy2n3w6q-356vix0kms.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ypthv7q62w-83jwlth58m.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\t6e3b82hrf-mrlpezrjn3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\uocis9wxbx-lzl9nlhx6b.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\2tikzqlmtu-ag7o75518u.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\9muusbdg0a-x0q3zqp4vz.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\tpsq5dibur-0i3buxo5is.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\t0qo7o574p-o1o13a6vjx.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\b9lhb08218-ttgo8qnofa.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\a3ygkwa5zy-2z0ns9nrw6.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\nezrqnk58p-muycvpuwrr.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\v0zgfp0y55-87fc7y1x7t.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\yfc7ypekbg-mlv21k5csn.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ge2ent28i1-7bpmip5a34.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\pgwsrm04hs-61n19gt1b8.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\0rsmq5soag-xtxxf3hu2r.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\yst9lelu1c-bqjiyaj88i.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\j7nq0jf63j-c2jlpeoesf.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\s5gj1ted55-erw9l3u2r3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\3y0t2lfzhn-aexeepp0ev.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\1cgj2yiurc-d7shbmvgxk.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\tr64o5t69v-ausgxo2sd3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\2cu4dklcti-k8d9w2qqmf.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\npy22xa4va-cosvhxvwiu.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\1z779xu2b0-ub07r2b239.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\1jxcrzdvts-fvhpjtyr6v.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\wy70o2v1t1-b7pk76d08c.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ywbhd9l7bz-fsbi9cje9m.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\x4gqafc60n-rzd6atqjts.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\6d9nham6b4-ee0r1s7dh0.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\hq2x674t7j-dxx9fxp4il.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\6fhc7rdqll-jd9uben2k1.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\tjym7pnrzw-khv3u5hwcm.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\d8hn29elef-r4e9w2rdcm.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\gcpluatb5z-lcd1t2u6c8.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ecfcuyvtws-c2oey78nd0.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\s79c3d2qsu-tdbxkamptv.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\m0jhj9igpz-j5mq2jizvt.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\4vrtopiqvb-06098lyss8.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\j5kb2zi0qi-nvvlpmu67g.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\e5xg5vioqo-s35ty4nyc5.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\jt0euybwzj-pj5nd1wqec.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\2n0t2qmfc3-46ein0sx1k.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\7fvpxswzvg-v0zj4ognzu.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\8dfxchnqdi-37tfw0ft22.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\extjo87cee-hrwsygsryq.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\3nv0g3d055-pk9g2wxc8p.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\jryp2gncxb-ft3s53vfgj.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\buqpka7o6k-6cfz1n2cew.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\npq3knxbzw-6pdc2jztkx.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ngrj1y8izf-493y06b0oq.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\8nuofck2ws-iovd86k7lj.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\fial00ybep-vr1egmr9el.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\8e4brlcins-kbrnm935zg.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\lgqlruqdzs-jj8uyg4cgr.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\fcriwhbndv-y7v9cxd14o.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\3lr0gio8m0-notf2xhcfb.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\xci2qzxo2u-h1s4sie4z3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ghj2oszvv7-63fj8s7r0e.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ns5pyknywo-0j3bgjxly4.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\696tz3dpzv-47otxtyo56.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\7g35az1ypr-4v8eqarkd7.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\zvl369lpba-356vix0kms.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\7ospd1pv80-83jwlth58m.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\xwnm3beaza-mrlpezrjn3.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\rs2f0codlm-lzl9nlhx6b.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\g8vdwtfmrq-ag7o75518u.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\1cs821nxjc-x0q3zqp4vz.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\py54aignzd-0i3buxo5is.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\gun92stbfg-o1o13a6vjx.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\ibq285g8nr-ttgo8qnofa.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\cbuxcn93fy-2z0ns9nrw6.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\z7jevdscsb-muycvpuwrr.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\d4dj9xi0vg-87fc7y1x7t.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\85to6dcguj-mlv21k5csn.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\atfji1t870-c2zxgyklj4.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\compressed\k1oz1h02u6-c2zxgyklj4.gz
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.Exam.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam.props
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam.props
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam.props
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\refint\Exam.dll
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.pdb
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\Exam.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Saburov HW\Web ASp.Net\Exc\Exam\Exam\obj\Debug\net9.0\ref\Exam.dll
